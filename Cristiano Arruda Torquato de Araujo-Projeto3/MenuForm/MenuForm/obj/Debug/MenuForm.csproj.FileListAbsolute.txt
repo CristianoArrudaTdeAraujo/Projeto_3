@@ -1,0 +1,12 @@
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\bin\Debug\MenuForm.exe.config
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\bin\Debug\MenuForm.exe
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\bin\Debug\MenuForm.pdb
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.csprojResolveAssemblyReference.cache
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.Form1.resources
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.Properties.Resources.resources
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.csproj.GenerateResource.Cache
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.exe
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.pdb
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.formularios.FormOpçao1.resources
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.formularios.FormOpcao2.resources
+c:\users\logonucd\documents\visual studio 2015\Projects\MenuForm\MenuForm\obj\Debug\MenuForm.Acesso.resources

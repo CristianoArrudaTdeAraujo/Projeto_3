@@ -1,0 +1,9 @@
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\bin\Debug\Projeto4.exe.config
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\bin\Debug\Projeto4.exe
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\bin\Debug\Projeto4.pdb
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\obj\Debug\Projeto4.csprojResolveAssemblyReference.cache
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\obj\Debug\Projeto4.Properties.Resources.resources
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.GenerateResource.Cache
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\obj\Debug\Projeto4.exe
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\logonucd\Desktop\Projeto4\Projeto4\obj\Debug\Projeto4.Calcular.resources
